@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 1c81d0f976dfebf4e8c4df9baa52d35f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteSheet_01
+    21300002: IDLE 1
+    21300004: IDLE 2
+    21300006: WALK 1
+    21300008: WALK 2
+    21300010: WALK 3
+    21300012: WALK 4
+    21300014: WALK 5
+    21300016: WALK 6
+    21300018: WALK 7
+    21300020: WALK 8
+    21300022: DIG 1
+    21300024: DIG 2
+    21300026: DIG 3
+    21300028: DIG 4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: IDLE 1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 492
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IDLE 2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 492
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WALK 1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 492
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WALK 2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 492
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WALK 3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 492
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WALK 4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 492
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WALK 5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 492
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WALK 6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 492
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WALK 7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 492
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WALK 8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 492
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DIG 1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 492
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DIG 2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 492
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DIG 3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 492
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DIG 4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 492
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

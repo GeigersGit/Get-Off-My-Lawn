@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A4C14EEF-88CD-A7B5-ED10-F4464D9704FB}") = "GetOffMyLawn", "Assembly-CSharp.csproj", "{D8D71883-1842-8DB8-AA86-45CDD7A60E71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8D71883-1842-8DB8-AA86-45CDD7A60E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D71883-1842-8DB8-AA86-45CDD7A60E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D71883-1842-8DB8-AA86-45CDD7A60E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D71883-1842-8DB8-AA86-45CDD7A60E71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
